@@ -14,5 +14,7 @@ Optional return keyword − The compiler automatically returns the value if the 
 
 ### Syntax
 parameter -> expression
+
 (parameter1, parameter2) -> expression
+
 (parameter1, parameter2) -> { code block }
