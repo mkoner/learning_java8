@@ -9,7 +9,7 @@ public class Example2{
         StringInterface evening = s -> "Good evening " + s + "!";
         printGreeting("Mamadou", morning);
         printGreeting("Mariam", afternoon);
-        printGreeting("Ibrahim", evening);
+        
     }
 
     private static void printGreeting(String name, StringInterface time){
