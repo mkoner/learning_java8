@@ -10,7 +10,7 @@ public class Example1{
         ArithmeticOperation mutiplication = (a, b) -> {return a * b;};
         ArithmeticOperation division = (a, b) -> {
    
-                return  a/b;
+            return  a/b;
             
             
         };
