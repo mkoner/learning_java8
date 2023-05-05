@@ -13,3 +13,14 @@ Predicate<T>: It represents a predicate (boolean-valued function) of one argumen
  <br>
   <br>
 
+
+One example of a functional interface is java.util.function.Function<T, R>, which represents a function that takes an argument of type T and returns a result of type R. For example, we can use this interface to define a lambda expression that converts a string to an integer:
+
+Function<String, Integer> stringToInt = s -> Integer.parseInt(s);
+
+<br>
+<br>
+
+Another example of a functional interface is java.util.function.Predicate<T>, which represents a boolean-valued function that tests a condition on an argument of type T. For example, we can use this interface to define a lambda expression that checks if a string is empty:
+
+Predicate<String> isEmpty = s -> s.isEmpty();
