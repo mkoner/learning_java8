@@ -6,10 +6,10 @@ Functional interfaces are used to enable lambda expressions and method reference
 <br>
 Java provides predefined functional interfaces to deal with functional programming by using lambda and method references.  <br>
 Some examples are: <br>
-Consumer\<T>: It represents an operation that accepts a single argument and returns no result. <br>
-BiConsumer\<T,U>: It represents an operation that accepts two input arguments and returns no result. <br>
-Function\<T,R>: It represents a function that accepts one argument and returns a result. <br>
-Predicate\<T>: It represents a predicate (boolean-valued function) of one argument. <br>
+Consumer \<T>: It represents an operation that accepts a single argument and returns no result. <br>
+BiConsumer \<T,U>: It represents an operation that accepts two input arguments and returns no result. <br>
+Function \<T,R>: It represents a function that accepts one argument and returns a result. <br>
+Predicate \<T>: It represents a predicate (boolean-valued function) of one argument. <br>
  <br>
   <br>
 
