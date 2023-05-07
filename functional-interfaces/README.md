@@ -25,3 +25,4 @@ Another example of a functional interface is java.util.function.Predicate<T>, wh
 </div>
 </div>
 `This is a code`
+Use `git status` to list all new or modified files that haven't yet been committed.
