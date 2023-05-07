@@ -24,3 +24,4 @@ Another example of a functional interface is java.util.function.Predicate<T>, wh
 `Predicate<String> isEmpty = s -> s.isEmpty();`
 </div>
 </div>
+`This is a code`
