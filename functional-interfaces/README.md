@@ -21,6 +21,6 @@ Function<String, Integer> stringToInt = s -> Integer.parseInt(s);
 
 <div>
 Another example of a functional interface is java.util.function.Predicate<T>, which represents a boolean-valued function that tests a condition on an argument of type T. For example, we can use this interface to define a lambda expression that checks if a string is empty:<br>
-```Predicate<String> isEmpty = s -> s.isEmpty();```
+`Predicate<String> isEmpty = s -> s.isEmpty();`
 </div>
 </div>
