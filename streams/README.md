@@ -8,6 +8,17 @@ A sequence of elements supporting sequential and parallel aggregate operations.
 With Java 8, Collection interface has two methods to generate a Stream. <br>
 stream() − Returns a sequential stream considering collection as its source. <br>
 parallelStream() − Returns a parallel Stream considering collection as its source. <br>
+<br>
+<div>
+
+#### Some methods
+
+##### forEach
+`void forEach(Consumer<? super T> action)`
+Performs an action for each element of this stream.
+This is a terminal operation.
+</div>
+
 
 
 <br>
