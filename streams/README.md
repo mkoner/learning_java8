@@ -5,9 +5,9 @@ A sequence of elements supporting sequential and parallel aggregate operations.
 </div> 
 
 #### Generating Streams
-With Java 8, Collection interface has two methods to generate a Stream.
-stream() − Returns a sequential stream considering collection as its source.
-parallelStream() − Returns a parallel Stream considering collection as its source.
+With Java 8, Collection interface has two methods to generate a Stream. <br>
+stream() − Returns a sequential stream considering collection as its source. <br>
+parallelStream() − Returns a parallel Stream considering collection as its source. <br>
 
 
 <br>
